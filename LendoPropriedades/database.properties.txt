@@ -1,0 +1,5 @@
+conexao.url=localhost
+conexao.database=MPLIIIDB
+conexao.usuario=mpl_user
+conexao.senha=secreta
+conexão.porta=5432
